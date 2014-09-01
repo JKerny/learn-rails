@@ -46,3 +46,37 @@ rvm use ruby-2.1.2@learn-rails --ruby-version
 ls -1pa
 ls -1pa
 rails s
+whoami
+ruby v
+ruby -v
+rails -v
+cd learn-rails
+rails -v
+rvm list
+rvm gemset list
+rails -v
+cd~
+cd ~
+cd learn-rails
+ls
+ls -1pa
+rails s
+ls -1p
+open .
+cd ~
+which git
+git version
+git config --get user.name
+git config --get user.email
+git config --global user.name "Jeremy"
+git config --get user.name
+git config --global user.email "jkerny81@gmail.com"
+git config --get user.email
+git init .
+ls -1p .git
+cat .gitignore
+cd learn-rails
+cat .gitignore
+git status
+git add -A
+git commit -m "Initial commit"
