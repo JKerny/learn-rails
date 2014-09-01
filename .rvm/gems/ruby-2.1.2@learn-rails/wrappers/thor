@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+if
+  [[ -s "/home/action/.rvm/gems/ruby-2.1.2@learn-rails/environment" ]]
+then
+  source "/home/action/.rvm/gems/ruby-2.1.2@learn-rails/environment"
+  exec thor "$@"
+else
+  echo "ERROR: Missing RVM environment file: '/home/action/.rvm/gems/ruby-2.1.2@learn-rails/environment'" >&2
+  exit 1
+fi
