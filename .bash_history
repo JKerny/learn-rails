@@ -80,3 +80,19 @@ cat .gitignore
 git status
 git add -A
 git commit -m "Initial commit"
+git status
+q
+cd ~
+git remote add origin https://github.com/JKerny/learn-rails.git
+git push -u origin master
+git mv README.rdoc README.md
+git mv README.rdoc README.md
+git mv README.rdoc README.md
+git add -A
+git commit -m "update README"
+git push origin master
+git add -A
+git commit -m "update README"
+git push origin master
+cd learn-rails
+cd learn-rails

@@ -1,4 +1,4 @@
-#!/home/action/.parts/packages/ruby2.1/2.1.1/bin/ruby
+#!/usr/bin/env ruby_executable_hooks
 
 #--
 # Copyright (c) 2003, 2004, 2005, 2006, 2007  Jim Weirich
