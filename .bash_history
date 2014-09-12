@@ -96,3 +96,88 @@ git commit -m "update README"
 git push origin master
 cd learn-rails
 cd learn-rails
+bundall install
+cd learn-rails
+bundle install
+rails -v
+cd ~
+bundle install
+cd learn-rails
+bundle install
+gem list
+git add -A
+git commit -m "add gems"
+git push origin master
+rails generate figaro:install
+cd ~
+rails generate figaro:install
+gem "figaro"
+cd learn-rails
+figaro install
+cd ~
+figaro install
+rails s
+cd learn-rails
+rails generate figaro:install
+gem list
+bundle install
+gem list
+rails generate figaro:install
+gem "figaro"
+figaro install
+cd ~
+cd /~
+cd ~
+ruby -v
+cd learn-rails
+bundle install
+gem list
+ruby -v
+bundle install
+gem list
+rails generate figaro:install
+ruby -v
+bundle install
+gem list
+rails -v
+bundle install
+gem list
+rails generate figaro:install
+gem "figaro"
+rails -v
+cd learn-rails
+ls
+bundle install
+ruby -v
+rvm -ruby
+rvm version
+rvm -h
+rvm info
+bundle install
+cd learn-rails
+rails generate figaro:install
+cd..
+cd ..
+ls
+rails new to-do
+cd to-do
+rails g Todo title:string decription:tex duedate:date status:boolean
+rails g Todo title:string decription:tex duedate:date status:bool
+rails g scaffold Todo title:string decription:tex duedate:date status:bool
+rails s
+rake db:migrate
+rake db:migrate
+rails s
+cd to-do
+rails s
+cd learn-rails
+cd ~
+cd learn-rails
+rails s
+cd ~
+cd to-do
+list gemset
+gem list
+rails -v
+rails s
+rails s

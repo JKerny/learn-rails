@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  decription: 
+  duedate: 2014-09-02
+  status: 
+
+two:
+  title: MyString
+  decription: 
+  duedate: 2014-09-02
+  status: 
