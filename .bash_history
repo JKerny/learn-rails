@@ -181,3 +181,47 @@ gem list
 rails -v
 rails s
 rails s
+cd to-do
+git remote add origin https://github.com/JKerny/to-do.git
+git add -A
+git commit -m "first push"
+git push origin master
+git push -u origin master
+touch READEME.md
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/JKerny/to-do.git
+git push -u origin master 
+git remote add origin https://github.com/JKerny/to-do.git
+git remote add origin https://github.com/JKerny/to-do.git
+git push -u origin master
+touch README.md
+git init
+git add README.md
+git commit -m "first"
+git remote origin https://github.com/JKerny/todo.git
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git add -A
+git commit -m "Second commit"
+git push -u origin master
+cd to-do
+gem install pg
+git add -A
+git commmit -m "add pg gem"
+git commit -m "add pg gem"
+list gem
+gem list
+git push origin master
+bundle install
+git add -A
+git commit -m "add pg gem"
+git push origin master
+cd to-do
+gem list
+bundle install
+bundle show
+pg -v
+rails -v
+gem list
