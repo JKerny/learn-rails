@@ -225,3 +225,34 @@ bundle show
 pg -v
 rails -v
 gem list
+git add -A
+git add -A
+git commit -m "add pg gem"
+git push origin master
+git push origin master
+cd to-do
+git add -A
+git commit -m "add pg gem"
+gem list
+git push origin master
+gem 'pg'
+gem list
+bundle install
+bundle show 'pg'
+git add -A
+git commit -m "add pg gem"
+git push origin master
+cd learn-rails
+ls -1p
+open .
+cd app
+ls 1p
+ls -1p
+cd ..
+which git
+git version
+git config get user.name
+git config --get user.name
+git config --get user.emil
+git config --get user.email
+bundle outdated
